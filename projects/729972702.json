@@ -1,0 +1,10 @@
+{
+  "title": "Asteroids (Progress Saving)",
+  "author": "codeGIO",
+  "ul": [
+    "The developer can view which users have a save state",
+    "The developer can view users' save state codes",
+    "It is unknown if this project uses encryption",
+    "It is unknown if this project uses security measures"
+  ]
+}
